@@ -1,0 +1,65 @@
+Cluster 0
+ shot dead
+ dead
+ shot
+ supporter shot
+ anc
+ supporter shot dead
+ anc supporter shot
+ supporter
+ members
+ anc supporter
+
+
+Cluster 1
+ members
+ sap
+ police
+ members sap
+ cape
+ detained
+ beaten
+ severely
+ member
+ tortured
+
+
+Cluster 2
+ inkatha
+ conflict
+ supporters
+ political
+ political conflict
+ inkatha supporters
+ udf
+ near
+ attack
+ area
+
+
+Cluster 3
+ ifp
+ supporters
+ anc
+ ifp supporters
+ burnt
+ near
+ supporter
+ natal
+ anc supporter
+ kwazulu
+
+
+Cluster 4
+ amnesty
+ mk
+ operatives
+ granted
+ granted amnesty
+ injured
+ mk operatives
+ killed
+ people
+ security
+
+
